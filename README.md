@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning full stack web development.<br>I'm looking to collaborate on full stack-related content.<br>I'm looking for help in developing my problem-solving skills and logical skills for enhancing my skills as a developer.<br>I'm  currently learning backend technologies like Spring boot.<br>Ask me anything. Happy to help anytime.<br>Fun fact- Have some fun!!
+I'm currently learning full stack web development.<br>I'm looking to collaborate on full stack-related content.<br>I'm looking for help in developing my problem-solving skills and logical skills for enhancing my skills as a developer.<br>I'm  currently learning backend technologies like Spring boot.<br>Ask me anything. Happy to help anytime.<br>
 
 
 ## 🌐 Socials:
