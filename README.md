@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a DevOps Engineer with 3.5+ years of experience in cloud, automation, and CI/CD.<br>I'm currently strengthening my skills in GCP, Terraform, Kubernetes, and DevSecOps practices.<br>I'm looking to collaborate on cloud infrastructure, automation, and CI/CD pipeline projects.<br>I'm passionate about building scalable, secure systems and improving operational efficiency. Happy to help anytime.<br>Ask me anything related to DevOps, cloud, or automation—happy to help!<br>
+I'm a DevOps Engineer with 3.5+ years of experience in cloud, automation, and CI/CD.<br>I'm strengthening my skills in GCP, Terraform, Kubernetes, and DevSecOps practices.<br>I'm looking to collaborate on cloud infrastructure, automation, and CI/CD pipeline projects.<br>I'm passionate about building scalable, secure systems and improving operational efficiency. Happy to help anytime.<br>Ask me anything related to DevOps, cloud, or automation—happy to help!<br>
 
 
 ## 🌐 Socials:
